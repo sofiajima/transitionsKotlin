@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">actividad7</string>
+    <string name="favorita">Mi película favorita</string>
+    <string name="description">Shrek is a big ogre who lives alone in the woods, feared by all the people in the land of Duloc. When Lord Farquaad, the ruler of Duloc, exiles all the fairy-tale beings to the woods, Shrek loses his peaceful life and his home becomes a refugee camp.</string>
+    <string name="description_scene1">Shrek is a big ogre who lives alone in the woods, feared by all the people in the land of Duloc. When Lord Farquaad, the ruler of Duloc, exiles all the fairy-tale beings to the woods, Shrek loses his peaceful life and his home becomes a refugee camp.</string>
+    <string name="shrek">Shrek</string>
+    <string name="descripcion">Érase una vez un ogro verde llamado Shrek que vivía en un pantano muy lejano, feliz con sus baños de barro y su particular concepto de la higiene. Pero un buen día, su preciada soledad se ve interrumpida por la invasión de un grupo de molestos personajes salidos de cuentos clásicos.</string>
+</resources>
